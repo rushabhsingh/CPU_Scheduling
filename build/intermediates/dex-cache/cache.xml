@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\49e8b9cf94213c28b6c6470bff72a70f143bb5b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_f6cb22e120af631ad8f2a92654acdcd3ee092118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\786388fccea4e4a521b3f859b5c7f58f50389586\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_8bef8101897f7ae743f29172ba6a891a927e77a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\6e715cc3b22e4ab66cb7c887ab9c10b2cfd0a560\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_f1790aeb8afe93c5f44fe99139075f143b1f2084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\2b3e801c96b6b8ed23369a666e0b190ec2380032\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_49051eaf30514754aac0630de8bd27bfb458a92a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\8ecfa5f1211329baa93bfb2d416bf34f87affa00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_3f416429b8dfacd29e1938e53c62cd191f2c50e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\e3b621d51eb188cf3359cce3b35b3822fab304a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_5ebf3d57f1859898fae002c08e9b9798f8acfd62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\e26cd687e848b71fc3c8cd5a24abc4a5ec50f1b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_59bbc1cac46018c836faf96edcd30f92a53722a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_27f8eb86febd85ada0fd2b74cbd54585b069acf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\380a468eb85af38b09e7f0cff1937252c8dff46e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_d4413c2de9bee85d9f797715bd26f8579e87613d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\5b331beba8c51eaf6fe881f38d4a20adb9addd87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_aa3822b52843c98f6dc9a269d7e2b0d25747d9d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_158e76354e715d7bcab2739e85a2fb6316fc66a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ningu\.android\build-cache\654173ab4552ec52f623e0ab6c644933c1df7c33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\AndroidStudioProjects\CPUSCHEDULING\app\build\intermediates\pre-dexed\debug\classes_f37c6f8cd16f2a643f5c2976d039537d7a7cda7a.jar" />
+    </item>
+
+</items>
